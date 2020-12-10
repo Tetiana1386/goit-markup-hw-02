@@ -14,6 +14,7 @@ body {
   font-weight: 400;
   font-size: 14px;
   line-height: 1.7;
+  letter-spacing: 0.03em;
 }
 
 /* Логотип */
@@ -45,6 +46,7 @@ span {
   font-size: 14px;
   line-height: 1.17;
   text-decoration: none;
+  letter-spacing: 0.02em;
 }
 
 .site-nav .link:hover,
@@ -80,6 +82,8 @@ li {
   font-size: 44px;
   line-height: 1.36;
   text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
 }
 
 .button {
@@ -89,6 +93,7 @@ li {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.63;
+  letter-spacing: 0.03em;
 }
 .button:hover,
 .button:focus {
@@ -103,6 +108,7 @@ li {
   font-size: 16px;
   line-height: 1.88;
   text-decoration: none;
+  letter-spacing: 0.06em;
 }
 
 /* Преимущества*/
@@ -113,6 +119,7 @@ li {
   font-weight: 700;
   font-size: 14px;
   line-height: 1.17;
+  text-transform: uppercase;
 }
 /* Чем мы занимаемся */
 .section-title,
@@ -149,6 +156,7 @@ li {
   font-weight: 700;
   font-size: 18px;
   line-height: 2;
+  letter-spacing: 0.06em;
 }
 
 .portfolio {
